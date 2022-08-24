@@ -1,0 +1,8 @@
+com\contacting\contact\dao\ContactDAOImpl.class
+com\contacting\contact\model\Contact.class
+com\contacting\contact\config\WebAppInitializer.class
+com\contacting\contact\controller\MainController.class
+com\contacting\contact\dao\ContactDAOImpl$2.class
+com\contacting\contact\config\SpringMvcConfig.class
+com\contacting\contact\dao\ContactDAO.class
+com\contacting\contact\dao\ContactDAOImpl$1.class
